@@ -6,3 +6,7 @@ export PATH="$PATH:/Users/santoshadhikari/developer/flutter/bin"
 https://developer.android.com/studio
 
 Xocode Install 
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+brew install cocoapods
