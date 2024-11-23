@@ -9,7 +9,10 @@ Xocode Install
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+https://brew.sh
+
 brew install cocoapods
+ brew install cocoapods
 
 
 homebrew install macbook m1
